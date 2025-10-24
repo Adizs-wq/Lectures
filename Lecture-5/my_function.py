@@ -8,7 +8,7 @@ def greet(name: str):
 greet("[bold Blue]Vanya")
 
 def change_name(name: str):
-    print("Artem pidoras")
+    print("Artem hero")
     return change_name
 
 change_name("aa")
