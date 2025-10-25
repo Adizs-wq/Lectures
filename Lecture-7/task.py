@@ -19,4 +19,6 @@ class BaseCharacter(MixinSpeakable,MixinAnimated,MixinFunny):
     name3: str = "Donkey"
     name4: str = "JackHorner"
     
+print(BaseCharacter(MixinFunny))
+    
     
